@@ -6,3 +6,5 @@ Page 2:
 introduction
 Page 3:
 Student registration
+
+https://www.figma.com/design/o2112RjjhSXhvtV0bIBLZt/Untitled?node-id=0-1&t=EAIg0mNGUPxIukHe-1
